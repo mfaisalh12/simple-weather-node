@@ -1,13 +1,13 @@
 {
   "name": "weather",
   "version": "1.0.0",
-  "description": "",
+  "description": "A website that checks the weather in an area",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muhammad Faisal H",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
